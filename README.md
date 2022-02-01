@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZadvaJnr
 - 👀 I’m interested in Systems & Software Development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project that will enable me experience workin in a team remotely
+- 💞️ I’m looking to collaborate on any project that will enable me experience working with engineering team team remotely
 - 📫 How to reach me: I can be reached on danielzadva@gmail.com
 
 <!---
